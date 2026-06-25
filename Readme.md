@@ -1,5 +1,4 @@
 ```python
-# Creamos el contenido del archivo README.md formateado profesionalmente con Markdown
 readme_content = """# Laboratorio Semana 6: Uso de Jenkins para Automatización de Pruebas de Software en Windows
 
 Este repositorio contiene la resolución práctica del laboratorio sobre la instalación, configuración e integración de Jenkins como servidor de Integración Continua (CI) para la automatización de pruebas unitarias en Python.
