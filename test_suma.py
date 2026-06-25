@@ -1,8 +1,8 @@
 def suma(a,b):
     return a+b
-def multiplicar(a,b)
+def multiplicar(a,b):
     return a*b
-def dividir(a,b)
+def dividir(a,b):
     return a/b
 def es_par(numero):
     return numero % 2 == 0
